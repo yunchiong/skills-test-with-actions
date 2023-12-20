@@ -14,9 +14,8 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 </header>
 
 <!--
+
   <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
 -->
 
 ## Step 5: Merge your pull request
@@ -31,6 +30,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Resolve any merge conflicts. <!-- TODO: figure out a better way to deal with the merge conflicts. -->
 1. Click **Merge pull request**.
 1. _Once you turn on branch protection, Actions can no longer push directly to the `main` branch. Make sure that you're on the `ci` branch in the page you're following instructions from._ Wait about 20 seconds and then refresh the page. [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step.
+
 
 <footer>
 
